@@ -1,4 +1,4 @@
 opencvEx
 ========
 
-do some opencv exercise
+do some opencv exercises
